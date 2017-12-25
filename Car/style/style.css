@@ -1,0 +1,36 @@
+body {
+    padding: .5em;
+}
+
+canvas {
+    border: none;
+	padding-bottom: 10px;
+}
+
+section {
+    background-color: #433F9C;
+    color: #FFFFFF;
+    height: 150%;
+    margin-top: auto;
+}
+
+h1 {
+	background-color: #433F9C;
+    color: white;
+    height: 120%;
+    padding-left: 10px;
+}
+
+h3 {
+    background-color: #433F9C;
+    color: white;
+    height: 120%;
+    padding-left: 10px;
+}
+
+h4 {
+    background-color: #433F9C;
+    color: white;
+    height: 120%;
+    padding-left: 10px;
+}
